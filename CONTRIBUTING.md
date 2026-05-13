@@ -36,6 +36,7 @@ To be accepted, your submission _must_ meet the following **requirement**s and _
     - **requirement**: if you are supplying an auto-completion definition XML file, it must go in the `autoCompletion` directory
     - **requirement**: if you are supplying a function list definition XML file, it must go in the `functionList` directory
     - **requirement**: if you are supplying a sample file, it must go in the `UDL-samples` directory
+11. **requirement**: UDL XML must be in UTF-8, and the prolog/declaration must include the declaration that sets that encoding: `<?xml version="1.0" encoding="UTF-8" ?>`
 11. **requirement**: submissions to the UDL Collection must pass all automated tests.
     - If the PR action does not pass, you will be required to fix the problem in a timely fashion, or the PR can and will be rejected.
     - Do not just submit the PR then never come back to check the status.
