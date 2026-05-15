@@ -162,6 +162,8 @@
 | [HQL for Notepad++](http://sourceforge.net/projects/hqluserdefinedlang/files/userDefineLang_HQL.xml) | [Akeel Udar](mailto:akeelu@hotmail.com) | HQL for Notepad++ |
 | [HSpice](./UDLs/HSpice_by-sahjakjebndmns.xml) | [sahjakjebndmns](mailto:sahjakjebndmns@users.sourceforge.net) | HSpice |
 | [Htaccess](./UDLs/Htaccess_bySilasBrill.xml) | [Silas Brill](mailto:brilliand@gmail.com) | Htaccess |
+| [HUML](./UDLs/HUML.Huml-Lang.xml) | Shade666 |  <details> <summary> HUML (Human-oriented Markup Language) — config format with YAML-like blocks and JSON-like inline </summary>  collections. Light theme. Targets HUML spec v0.2. </details> |
+| [HUML Dark Mode](./UDLs/HUML.Huml-Lang_Dark.xml) | Shade666 |  <details> <summary> HUML (Human-oriented Markup Language) — dark theme variant, VS Code Dark+ inspired palette. Targets </summary>  HUML spec v0.2. </details> |
 | [IBM Net.Data](./UDLs/Net.Data-IBM_byMarkus.xml) | [Markus](mailto:die_scholl@yahoo.com) | IBM Net.Data |
 | [IBM SBI Mapper Extended Rules](./UDLs/SBI_Mapper_Light_Mode.xml) | Mayot | IBM Sterling B2B Integrator Mapper for Extended Rules |
 | [IBM SBI Mapper Extended Rules (Dark Mode)](./UDLs/SBI_Mapper_Dark_Mode.xml) | Mayot | IBM Sterling B2B Integrator Mapper for Extended Rules (Dark Mode) |
@@ -538,6 +540,8 @@
 | [HP VirtualConnect Script](./autoCompletion/VirtualConnect.xml) | generate_ac.py | HP VirtualConnect Script |
 | [HSpice](./autoCompletion/HSpice.xml) | generate_ac.py | HSpice |
 | [Htaccess](./autoCompletion/Htaccess.xml) | generate_ac.py | Htaccess |
+| [HUML](./autoCompletion/HUML.xml) | generate_ac.py | HUML (Human-oriented Markup Language) — config format with YAML-like blocks and JSON-like inline collections. Light theme. Targets HUML spec v0.2. |
+| [HUML Dark Mode](./autoCompletion/HUML%20Dark%20Mode.xml) | generate_ac.py | HUML (Human-oriented Markup Language) — dark theme variant, VS Code Dark+ inspired palette. Targets HUML spec v0.2. |
 | [IBM Net.Data](./autoCompletion/Net.data.xml) | generate_ac.py | IBM Net.Data |
 | [IBM SBI Mapper Extended Rules](./autoCompletion/SBI%20Mapper.xml) | generate_ac.py | IBM Sterling B2B Integrator Mapper for Extended Rules |
 | [IBM SBI Mapper Extended Rules (Dark Mode)](./autoCompletion/SBI%20Mapper%20%28Dark%20Mode%29.xml) | generate_ac.py | IBM Sterling B2B Integrator Mapper for Extended Rules (Dark Mode) |

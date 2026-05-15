@@ -1610,7 +1610,9 @@
       "version": "0.2",
       "repository": "",
       "description": "HUML (Human-oriented Markup Language) — config format with YAML-like blocks and JSON-like inline collections. Light theme. Targets HUML spec v0.2.",
-      "sample": "HUML.Huml-Lang.huml"
+      "sample": "HUML.Huml-Lang.huml",
+      "autoCompletion": "HUML",
+      "autoCompletionAuthor": "generate_ac.py"
     },
     {
       "id-name": "HUML.Huml-Lang_Dark",
@@ -1619,7 +1621,9 @@
       "version": "0.2",
       "repository": "",
       "description": "HUML (Human-oriented Markup Language) — dark theme variant, VS Code Dark+ inspired palette. Targets HUML spec v0.2.",
-      "sample": "HUML.Huml-Lang.huml"
+      "sample": "HUML.Huml-Lang.huml",
+      "autoCompletion": "HUML Dark Mode",
+      "autoCompletionAuthor": "generate_ac.py"
     },
     {
       "id-name": "iCalendar_by-jfreundo",
